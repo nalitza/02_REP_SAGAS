@@ -1,1 +1,2 @@
 Completar saga galaxias
+ completar mas desde local.
